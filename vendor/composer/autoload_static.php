@@ -7,16 +7,16 @@ namespace Composer\Autoload;
 class ComposerStaticInit883ecda5009e70a1042499caff815880
 {
     public static $prefixLengthsPsr4 = array (
-        'N' => 
+        'D' => 
         array (
-            'Ncut\\LaraAuto\\' => 14,
+            'Demo\\' => 5,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Ncut\\LaraAuto\\' => 
+        'Demo\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/src/Demo',
         ),
     );
 
