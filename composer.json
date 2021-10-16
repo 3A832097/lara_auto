@@ -1,0 +1,21 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "autoload classes",
+    "autoload": {
+        "psr-4": {
+            "Ncut\\LaraAuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hsin-Ju Teng",
+            "email": "dlulu900821@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/Demo"
+        }
+    }
+}
